@@ -1,0 +1,9 @@
+pypi.org
+
+pip install sqlite3-api
+
+DB Browser for SQLite
+
+sudo apt install sqlite3
+
+

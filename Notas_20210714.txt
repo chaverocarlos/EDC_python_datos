@@ -1,0 +1,11 @@
+https://pypi.org
+
+pip install Pillow
+
+https://htmlcolorcodes.com/es/
+
+https://www.iloveimg.com/resize-image
+
+https://www.pngall.com/cancel-button-png/download/34938
+
+

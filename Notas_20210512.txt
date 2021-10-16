@@ -1,0 +1,38 @@
+#Preguntar al usuario su nombre, edad y
+#película favorita. Guardar estos datos
+#en variables y concatenar en la siguiente
+#lína
+
+'''
+Mi nombre es {nombre}, tengo {edad} años y
+mi película favorita es {pelicula}.
+
+print("Mi nombre es " + nombre + ", tengo " + edad + " años y mi película favorita es " + peliculaFavorita)
+'''
+
+https://trinket.io/python3
+
+
+#Preguntar al usuario su estatura en cm, convertir a pulgadas e imprimir este último
+#Dato: 1 pulgada = 2.54 cm
+
+
+# operador de asignacion
+variable= "dato"
+print(variable)
+nombre= "juan gutierrez"
+edad="23"
+direccion= "av reforma #22"
+print("nombre del paciente  "+nombre   + "  edad   "+edad  +"  direccion   "+direccion)
+
+
+#Ejercicio: Preguntar al usuario su nombre, apellido_paterno,
+#apellido_materno y fecha de nacimiento.
+#Calcular e imprimir su RFC sin homoclave(primeros ocho
+#dígitos de la CURP
+
+#2 primeras letras de apellido paterno
+#+ inicial del apellido materno
+#+ inicial del nombre
+# (Todo lo anterior en mayusculas)
+#Fecha de nacimiento en formato YYMMDD
